@@ -75,3 +75,5 @@ func arrayAvg(_ Array: [Int]) -> Double{ // [Int] = Array<Int>
 }
 
 
+// 가급적 if문을 쓰지 않고 하고 싶은데 잘 모르겠다.
+// 소요 시간 : 1시간 30분
